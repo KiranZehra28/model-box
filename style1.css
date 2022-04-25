@@ -1,0 +1,10 @@
+h1{color: rgb(121, 10, 75);
+    text-align: center;
+    text-decoration: dotted underline;}
+p{color: rgb(121, 10, 75);
+    border: 10px dashed;border-color: rgb(247, 208, 247);
+    padding: 50px;
+    margin: 50px;
+    font-size: larger;
+    font-style: inherit;}
+span{background-color: rgb(146, 243, 233);}
